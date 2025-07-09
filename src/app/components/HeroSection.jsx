@@ -36,9 +36,13 @@ const HeroSection = () => {
                     <Link href="/#contact" className="px-6 py-3 rounded-full mr-4 w-full sm:w-fit bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 hover:cursor-pointer text-white">
                         Hire Me
                     </Link>
-                    <button className="px-1 py-1 rounded-full bg-transparent bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-800 hover:cursor-pointer text-white border mt-3">
-                        <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2 text-center w-full sm:w-auto">Download CV</span>
-                    </button>
+                    <a href="/Ankit_Khandelwal_CV.pdf" download>
+                        <button className="px-1 py-1 rounded-full bg-transparent bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-800 hover:cursor-pointer text-white border mt-3">
+                            <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2 text-center w-full sm:w-auto">
+                                Download CV
+                            </span>
+                        </button>
+                    </a>
                 </div>
             </motion.div>
             <motion.div
