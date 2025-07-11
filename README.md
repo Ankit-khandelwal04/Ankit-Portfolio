@@ -1,9 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">🚀 Ankit Khandelwal's Portfolio</h1>
 
-## Getting Started
+<p align="center">
+  <b>A sleek, responsive personal portfolio built using Next.js</b><br/>
+  Showcasing projects, skills, and experience with performance-focused UI/UX.
+</p>
 
-First, run the development server:
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-13+-black?style=flat&logo=next.js" />
+  <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Deployed-Vercel-black?style=flat&logo=vercel" />
+  <img src="https://img.shields.io/badge/Made%20with-VS%20Code-blue?style=flat&logo=visualstudiocode" />
+</p>
 
+---
+
+## 🖥️ Live Demo
+
+> Visit the live website here: [ankit-khandelwal-portfolio.vercel.app](https://ankit-khandelwal-portfolio.vercel.app)
+
+---
+
+## 📦 Tech Stack
+
+- **Frontend:** React.js, Next.js (App Router)
+- **Styling:** Tailwind CSS (or add yours here)
+- **Fonts:** [Geist](https://vercel.com/font)
+- **Editor:** Visual Studio Code
+- **Deployment:** Vercel
+
+---
+
+## 📂 Getting Started
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/Ankit-khandelwal04/your-portfolio-repo.git
+cd your-portfolio-repo
+```
+
+# Install dependencies
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+```
+
+Run the development server:
 ```bash
 npm run dev
 # or
@@ -13,24 +61,21 @@ pnpm dev
 # or
 bun dev
 ```
+Visit http://localhost:3000 in your browser to view the site.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🧠 Learn More:
+📘 Next.js Documentation
+🧪 Learn Next.js – Interactive Tutorial
+🌐 Next.js GitHub Repository
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+🚀 Deployment
+This project is deployed using Vercel – the fastest way to host your Next.js apps.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+👨‍💻 Author:
+Ankit Khandelwal
+📫 ankitkhandelwal1034@gmail.com
+🔗 LinkedIn
+🌐 GitHub Profile
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+⭐ If you like this project, feel free to star it!
+📬 PRs, Issues and Suggestions are welcome!
