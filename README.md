@@ -64,7 +64,8 @@ bun dev
 Visit http://localhost:3000 in your browser to view the site.
 
 ---
-🧠 Learn More
+🧠 Learn More:
+
 📘 Next.js Documentation – Learn about Next.js features and API.
 
 🧪 Learn Next.js – Interactive tutorial to master the framework.
@@ -79,11 +80,11 @@ This project is deployed using Vercel – the fastest way to host your Next.js a
 
 Ankit Khandelwal
 
-📫 ankitkhandelwal1034@gmail.com
+📫 e-mail: ankitkhandelwal1034@gmail.com
 
-🔗 LinkedIn
+🔗 LinkedIn: https://www.linkedin.com/in/ankit-khandelwal-002474295/
 
-🌐 GitHub
+🌐 GitHub: https://github.com/Ankit-khandelwal04  
 
 ⭐ If you like this project, feel free to star it!
 📬 PRs, Issues and Suggestions are welcome!
