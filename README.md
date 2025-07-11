@@ -23,7 +23,7 @@
 ## 📦 Tech Stack
 
 - **Frontend:** React.js, Next.js (App Router)
-- **Styling:** Tailwind CSS (or add yours here)
+- **Styling:** Tailwind CSS
 - **Fonts:** [Geist](https://vercel.com/font)
 - **Editor:** Visual Studio Code
 - **Deployment:** Vercel
@@ -71,13 +71,18 @@ Visit http://localhost:3000 in your browser to view the site.
 
 🌐 Next.js GitHub Repository – Explore the source and contribute.
 
-🚀 Deployment
+🚀 Deployment: 
+
 This project is deployed using Vercel – the fastest way to host your Next.js apps.
 
-👨‍💻 Author
+👨‍💻 Author:
+
 Ankit Khandelwal
+
 📫 ankitkhandelwal1034@gmail.com
+
 🔗 LinkedIn
+
 🌐 GitHub
 
 ⭐ If you like this project, feel free to star it!
