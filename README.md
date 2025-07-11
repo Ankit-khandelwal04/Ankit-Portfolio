@@ -63,12 +63,14 @@ bun dev
 ```
 Visit http://localhost:3000 in your browser to view the site.
 
+---
+
 🧠 Learn More:
 📘 Next.js Documentation
 🧪 Learn Next.js – Interactive Tutorial
 🌐 Next.js GitHub Repository
 
-🚀 Deployment
+🚀 Deployment:
 This project is deployed using Vercel – the fastest way to host your Next.js apps.
 
 👨‍💻 Author:
