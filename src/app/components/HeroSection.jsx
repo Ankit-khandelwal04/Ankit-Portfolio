@@ -22,6 +22,8 @@ const HeroSection = () => {
                             1000,
                             'Web Developer',
                             1000,
+                            'Tech Explorer',
+                            1000,
                         ]}
                         wrapper="span"
                         speed={40}
