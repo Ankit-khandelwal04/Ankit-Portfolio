@@ -53,7 +53,7 @@ const TAB_DATA = [
       <ul className="list-disc pl-2 space-y-4">
         <li>
           <div className="flex flex-col">
-            <span>Ryan International School, Nashik, Maharashtra, India</span>
+            <span>Ryan International School, Nashik, Maharashtra</span>
             <span className="mt-1">
               <span>April 2010 – March 2020</span>
               <span className="ml-7">84.64%</span>
@@ -62,10 +62,19 @@ const TAB_DATA = [
         </li>
         <li>
           <div className="flex flex-col">
-            <span>K. K. Wagh Institute of Engineering Education and Reseach, Nashik, Maharashtra, India</span>
+            <span>Sri Chaitanya Junior College, Hyderabad, Telanga</span>
+            <span className="mt-1">
+              <span>June 2020 – April 2022</span>
+              <span className="ml-7">92.00%</span>
+            </span>
+          </div>
+        </li>
+        <li>
+          <div className="flex flex-col">
+            <span>K. K. Wagh Institute of Engineering Education and Reseach, Nashik, Maharashtra</span>
             <span className="mt-1">
               <span>July 2023 – Present</span>
-              <span className="ml-10">CGPA: 9.1</span>
+              <span className="ml-10">CGPA: 9</span>
             </span>
           </div>
         </li>
