@@ -16,7 +16,7 @@
 
 ## 🖥️ Live Demo
 
-> Visit the live website here: [ankit-khandelwal-portfolio.vercel.app](https://ankit-khandelwal-portfolio.vercel.app)
+> Visit the live website here: [ankit-khandelwal-portfolio.vercel.app](https://ankit-khandelwal.vercel.app/)
 
 ---
 
