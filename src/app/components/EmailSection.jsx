@@ -2,6 +2,7 @@
 import React, { useState } from "react";
 import GithubIcon from "../../../public/github-icon.svg";
 import LinkedinIcon from "../../../public/linkedin-icon.svg";
+import InstagramIcon from "../../../public/instagram-icon.svg";
 import Link from "next/link";
 import Image from "next/image";
 import { FaMapMarkerAlt, FaEnvelope, FaPhoneAlt } from "react-icons/fa";
@@ -105,6 +106,12 @@ const EmailSection = () => {
               className="flex hover:scale-115 transition-transform duration-200"
             >
               <Image src={LinkedinIcon} alt="Linkedin Icon" />
+            </Link>
+            <Link
+              href="https://www.instagram.com/ankit_khandelwal4/"
+              className="flex hover:scale-115 transition-transform duration-200"
+            >
+              <Image src={InstagramIcon} alt="Instagram Icon" />
             </Link>
           </div>
         </div>
