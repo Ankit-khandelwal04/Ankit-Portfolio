@@ -24,7 +24,7 @@ const activities = [
 
 const ExtraCurricularSection = () => {
   return (
-    <section id="extra" className="w-full bg-black">
+    <section id="extra" className="w-full bg-black scroll-mt-24">
       <div className="max-w-6xl mx-auto pt-10 pb-16">
             <h2 className="text-center text-4xl font-bold text-white mt-4 mb-8 md:mb-12">
             Extra-Curricular Activities
